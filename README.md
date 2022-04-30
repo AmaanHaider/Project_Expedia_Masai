@@ -75,6 +75,10 @@ We are very thankful for the support of my teammates and instructor for the comp
 
 ## <span style="color:rgb(255, 200, 0)"> Team Members: </span>
 
+
+- ## Amaan
+[GitHub](https://github.com/AmaanHaider)
+
 - ## Shubham
 [GitHub](https://github.com/Shubhamvumap123)
 
@@ -84,8 +88,6 @@ We are very thankful for the support of my teammates and instructor for the comp
 - ## Mohnish
 [GitHub](https://github.com/mohd4monish)
   
-- ## Amaan
-[GitHub](https://github.com/AmaanHaider)
 
 - ## Apoorva
 [GitHub](https://github.com/Apoorva0123)
